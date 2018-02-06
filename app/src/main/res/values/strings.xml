@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather_Map</string>
+    <string-array name="City">
+        <item>Yerevan, AM</item>
+        <item>Goris, AM</item>
+        <item>Shirak, AM </item>
+        <item>Syunik, AM</item>
+        <item>Ararat, AM</item>
+    </string-array>
+</resources>
